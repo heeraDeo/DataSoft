@@ -2198,6 +2198,7 @@ input[type=radio] {
 
 .social-icons li {
   margin-right: 20px;
+  font-size: xx-large;
 }
 
 .social-icons li a {
@@ -2635,12 +2636,17 @@ input[type=radio] {
   padding: 0;
   margin: 0;
   line-height: 135px;
+  display: flex;
 }
 
 .navbar .logo-light {
   display: none;
+  /* height: 50; */
 }
-
+.navbar .bg {
+  color: #0092ff;
+  top: 10;
+}
 .navbar .navbar-toggler {
   padding: 0;
   border: none;
