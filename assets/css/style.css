@@ -4514,8 +4514,15 @@ input[type=radio] {
   margin-bottom: 8px;
 }
 
-.slider .slide__title {
+.slider .slide__title2 {
   font-size: 75px;
+  font-weight: 800;
+  line-height: 1.1;
+  color: #ffffff;
+  margin-bottom: 25px;
+}
+.slider .slide__title {
+  font-size: 40px;
   font-weight: 800;
   line-height: 1.1;
   color: #ffffff;
