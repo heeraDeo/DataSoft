@@ -4515,7 +4515,7 @@ input[type=radio] {
 }
 
 .slider .slide__title2 {
-  font-size: 75px;
+  font-size: 55px;
   font-weight: 800;
   line-height: 1.1;
   color: #ffffff;
@@ -7188,8 +7188,8 @@ input[type=radio] {
   position: absolute;
   bottom: 0;
   right: 0;
-  padding: 45px;
-  max-width: 340px;
+  padding: 30px;
+  max-width: 280px;
   border-radius: 5px 0 5px 0;
   background-color: #091d3e;
 }
@@ -7218,11 +7218,11 @@ input[type=radio] {
 
 .about-layout2 .blockquote .blockquote__title {
   color: #ffffff;
-  font-size: 17px;
+  font-size: 14px;
   font-weight: 600;
   font-style: italic;
   line-height: 1.5;
-  margin-bottom: 17px;
+  margin-bottom: 5px;
 }
 
 .about-layout2 .blockquote .blockquote__author {
