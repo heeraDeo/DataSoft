@@ -2436,12 +2436,14 @@ input[type=radio] {
 .list-items-layout2 li {
   padding-left: 33px;
   color: #848e9f;
+
 }
 
 .list-items-layout2 li:before {
   color: #ffffff;
   border-color: #091d3e;
   background-color: #091d3e;
+  
 }
 
 .list-items-light li {
