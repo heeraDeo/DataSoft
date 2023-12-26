@@ -1606,6 +1606,10 @@ h6 {
   background-color: #0092ff;
   color: #ffffff;
 }
+.btn__primary2 {
+  background-color: #38d814;
+  color: #ffffff;
+}
 
 .btn__primary .icon-outlined {
   color: #091d3e;
